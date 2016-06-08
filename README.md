@@ -8,7 +8,7 @@ A simple Space Invaders clone for the ti83/84 calculators
 * Tested and works on TI-83(+) and TI-84(+/SE)
 
 ######To run: 
-1. Send to a ti83+/84+SE calculator using [TI-Connect](http://education.ti.com/en/us/products/computer_software/connectivity-software/ti-connect-software/tabs/overview)
+1. Send `INVADERS.8XP` file to a ti83+/84+SE calculator using [TI-Connect](http://education.ti.com/en/us/products/computer_software/connectivity-software/ti-connect-software/tabs/overview)
 2. Press `2nd`then `0` to open the catalog
 3. Scroll down to `Asm(` and press `Enter`
 4. Press the `PRGM` button and scroll down to `INVADERS`
