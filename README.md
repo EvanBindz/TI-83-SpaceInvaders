@@ -6,6 +6,7 @@ A simple Space Invaders clone for the ti83/84 calculators
 * Compiled with [spasm](https://wabbit.codeplex.com/) with `spasm invaders.z80 invaders.8xp`
 * Tested with the [wabbitemu](https://wabbit.codeplex.com/) emulator
 * Tested and works on TI-83(+) and TI-84(+/SE)
+
 ___
 ___
 ######:beginner: To run: 
@@ -15,6 +16,7 @@ ___
 3. Scroll down to `Asm(` and press `Enter`
 4. Press the `PRGM` button and scroll down to `INVADERS`
 5. Press `Enter` and the program will start running
+
 ___
 ___
 
